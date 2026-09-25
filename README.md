@@ -54,4 +54,4 @@ As doze perguntas de toda revisão de arquitetura, mais checklists de código, i
 
 ## License
 
-MIT.
+Apache-2.0. Copyright (c) 2026 Felipe Guedes (fgxdev.com). Redistributions must keep the NOTICE file and mark any changes.
